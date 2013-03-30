@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = HashExtension::VERSION
   s.authors     = ["Framgia Vietnam Co., Ltd"]
   s.email       = ["oss@framgia.com"]
-  s.homepage    = "://github.com/framgia/hash_extension"
+  s.homepage    = "http://github.com/framgia/hash_extension"
   s.summary     = "add useful methods to Hash core class"
   s.description = "add useful methods to Hash core class"
 
